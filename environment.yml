@@ -9,3 +9,5 @@ dependencies:
 - voila>=0.2.11
 - vega_datasets
 - bqplot
+- ipympl
+- ipyvolume
