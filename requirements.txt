@@ -16,7 +16,6 @@ bqplot==0.12.33
 branca==0.5.0
 brotli==1.0.9
 brotlipy==0.7.0
-bzip2==1.0.8
 c-ares==1.18.1
 ca-certificates==2022.5.18.1
 certifi==2022.5.18.1
