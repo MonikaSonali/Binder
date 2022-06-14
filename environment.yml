@@ -11,3 +11,9 @@ dependencies:
 - bqplot
 - ipympl
 - ipyvolume
+- seaborn
+- plotly.express
+- plotly
+
+- folium
+- folium.plugins
