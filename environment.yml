@@ -16,3 +16,4 @@ dependencies:
 - folium
 - xmltodict
 - voila-gridstack
+- jupyterlab_miami_nights
